@@ -1,0 +1,32 @@
+# Wordle Game
+
+## Description
+Wordle is a word-guessing game where players try to guess a five-letter word in six attempts or less. The game provides feedback on each guess, indicating which letters are correct and in the correct position.
+
+## Installation
+1. Clone the repository: `git clone https://github.com/your-username/wordle-game.git`
+2. Navigate to the project directory: `cd wordle-game`
+3. Install dependencies: `npm install`
+
+## Usage
+1. Run the game: `npm start`
+2. Enter a five-letter word and press Enter.
+3. The game will provide feedback on your guess, indicating which letters are correct and in the correct position.
+4. Keep guessing until you guess the correct word or run out of attempts.
+
+## Features
+- Guess a five-letter word
+- Receive feedback on each guess
+- Limited number of attempts
+- Play again option
+
+## Technologies Used
+- JavaScript
+- HTML
+- CSS
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
